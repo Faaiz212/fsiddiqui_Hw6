@@ -1,0 +1,27 @@
+*{
+    
+    font-size: 110%;
+    mix-blend-mode:darken;
+}
+body{
+    background-image: url(colorful-2174045.png);
+    background-size: auto;
+    background-attachment: fixed;
+}
+
+h1,h3{
+    font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+}
+figure{
+    font-family: Copperplate, "Copperplate Gothic Light", fantasy;
+    font-style: italic;
+    font-weight: bold;
+}
+h1{
+    text-align-last: center;
+    font-size: 120%;
+}
+#info1{
+    margin-bottom: 0%;
+    
+}
